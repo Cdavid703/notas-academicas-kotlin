@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="EstiloTitulo">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/azul_principal</item>
+    </style>
+
+    <style name="EstiloEtiqueta">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/gris_texto</item>
+    </style>
+
+    <style name="EstiloEditText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/gris_texto</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="EstiloBoton">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/azul_principal</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="EstiloResultado">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/azul_oscuro</item>
+    </style>
+
+</resources>

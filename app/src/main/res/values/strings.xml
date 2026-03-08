@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NotasAcademicas</string>
+    <string name="titulo_app">Cálculo de Notas Académicas</string>
+
+    <string name="label_nombre_estudiante">Nombre del estudiante</string>
+    <string name="hint_nombre_estudiante">Ingrese el nombre del estudiante</string>
+
+    <string name="label_materia">Nombre de la materia</string>
+    <string name="hint_materia">Ingrese la materia</string>
+
+    <string name="label_conocimiento">Nota de Conocimiento (33%)</string>
+    <string name="label_desempeno">Nota de Desempeño (33%)</string>
+    <string name="label_producto">Nota de Producto (34%)</string>
+    <string name="hint_nota">Ingrese una nota entre 0 y 5</string>
+
+    <string name="boton_calcular">Calcular nota definitiva</string>
+    <string name="resultado_inicial">Aquí aparecerá el resultado final</string>
+
+    <string name="error_campos">Por favor complete todos los campos</string>
+    <string name="error_notas">Las notas deben estar entre 0 y 5</string>
+
+    <string name="popup_titulo">Resultado</string>
+    <string name="popup_gano">El estudiante ganó la materia</string>
+    <string name="popup_perdio">El estudiante perdió la materia</string>
+    <string name="popup_aceptar">Aceptar</string>
+
+    <string name="resultado_formato">Estudiante: %1$s\nMateria: %2$s\nNota definitiva: %3$s</string>
+</resources>

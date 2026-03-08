@@ -1,0 +1,10 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="fondo_app">#F5F7FA</color>
+    <color name="azul_principal">#1565C0</color>
+    <color name="azul_oscuro">#0D47A1</color>
+    <color name="gris_texto">#333333</color>
+    <color name="gris_suave">#666666</color>
+</resources>
